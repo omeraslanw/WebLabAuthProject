@@ -70,15 +70,15 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
 <p align="center">
   <b>Giriş Ekranı</b><br>
-  <img src="https://github.com/omeraslanw/BankamatikProjesi/blob/master/giris.png" alt="Uygulama Giriş Ekranı" width="600"/>
+  <img src="https://github.com/omeraslanw/WebLabAuthProject/blob/master/hatalisifre.png" alt="Uygulama Giriş Ekranı" width="600"/>
 </p>
 
 <p align="center">
   <b>Ana Ekran</b><br>
-  <img src="https://github.com/omeraslanw/BankamatikProjesi/blob/master/ana%20sayfa.png" alt="Uygulama Ana Ekranı" width="600"/>
+  <img src="https://github.com/omeraslanw/WebLabAuthProject/blob/master/dogrusifre.png" alt="Uygulama Ana Ekranı" width="600"/>
 </p>
 
 <p align="center">
   <b>Kaydolma Ekranı</b><br>
-  <img src="https://github.com/omeraslanw/BankamatikProjesi/blob/master/kaydol.png" alt="Uygulama Kaydolma Ekranı" width="600"/>
+  <img src="https://github.com/omeraslanw/WebLabAuthProject/blob/master/kaydol.png" alt="Uygulama Kaydolma Ekranı" width="600"/>
 </p>
